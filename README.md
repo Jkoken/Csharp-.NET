@@ -1,3 +1,3 @@
-# Repositório para Estudos e Desafios do bootcamp C# .NET  
+# Repositório Desafios do bootcamp C# .NET  
 
-Desafio de Projeto sobre Git/Github
+Desafio de Projeto envolvendo C# .NET
