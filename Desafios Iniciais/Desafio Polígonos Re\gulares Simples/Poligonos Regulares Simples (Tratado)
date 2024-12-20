@@ -1,0 +1,16 @@
+//Abaixo temos o mesmo caso, mas com um tratamento simples, para que o usuário insira exatamente dois valores.
+using System; 
+
+class Problem {
+
+    static void Main(string[] args) { 
+        Console.WriteLine("Insira dois Valores, separados por espaço, o primeiro para a Quantidade de Lados e o Segundo para o Comprimento");
+        string[] v = Console.ReadLine().Split();
+        if (v.Length != 2)
+        {
+            Console.WriteLine("Favor Inserir dois valores.");
+        } else {
+            Console.WriteLine(int.Parse(v[0]) * int.Parse(v[1]));
+        }
+    }
+}
