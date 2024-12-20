@@ -1,0 +1,32 @@
+//Esse teste possui a mesma finalizado do "Média 2", mas aqui estamos tratando a entrada para evitar que seja inserido um valor menor do que zero ou maior do que 10 em cada uma das notas.
+using System;
+
+namespace Start {
+  class Program {
+    static void Main(string[] args) {
+      double A = 11, B = 11, C = 11;
+      
+      while(A > 10.0 || A < 0.0)
+      {
+      Console.WriteLine("Insira a nota 1 do Aluno (entre 0 a 10.0): ");
+      A = double.Parse(Console.ReadLine());
+      }
+
+      while(B > 10.0 || B < 0.0)
+      {
+      Console.WriteLine("Insira a nota 2 do Aluno (entre 0 a 10.0): ");
+      B = double.Parse(Console.ReadLine());
+      }
+
+      while(C > 10.0 || C < 0.0)
+      {
+      Console.WriteLine("Insira a nota 3 do Aluno (entre 0 a 10.0): ");
+      C = double.Parse(Console.ReadLine());
+      }
+      
+
+      Console.WriteLine("MEDIA = " + String.Format("{0:0.0}", ((A * 2) + (B * 3) + (C * 5)) / (2 + 3 + 5)));
+      Console.ReadKey();
+    }
+  }
+}
