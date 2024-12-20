@@ -1,0 +1,9 @@
+using System; 
+
+class Problem {
+
+    static void Main(string[] args) { 
+        string[] v = Console.ReadLine().Split(); //Os dois valores devem ser inseridos separados por "espaço";
+        Console.WriteLine(int.Parse(v[0]) * int.Parse(v[1]));
+    }
+}
