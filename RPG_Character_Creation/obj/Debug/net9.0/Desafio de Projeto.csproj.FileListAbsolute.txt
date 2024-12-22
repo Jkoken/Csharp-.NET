@@ -1,0 +1,14 @@
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\bin\Debug\net9.0\Desafio de Projeto.exe
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\bin\Debug\net9.0\Desafio de Projeto.deps.json
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\bin\Debug\net9.0\Desafio de Projeto.runtimeconfig.json
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\bin\Debug\net9.0\Desafio de Projeto.dll
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\bin\Debug\net9.0\Desafio de Projeto.pdb
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.AssemblyInfoInputs.cache
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.AssemblyInfo.cs
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.dll
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\refint\Desafio de Projeto.dll
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.pdb
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\Desafio de Projeto.genruntimeconfig.cache
+C:\Users\Jackson\OneDrive\Documentos\Estudos\dotNet e C#\Desafio de Projeto\obj\Debug\net9.0\ref\Desafio de Projeto.dll
