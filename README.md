@@ -3,6 +3,6 @@
 
 Também serão encontrados Diretórios para armazenamento dos Desafios do Bootcamp C# .NET da Dio.
 Os diretórios srão:
-\n . Desafios Iniciais;
-\n . Desafios Intermediários;
-\n . Desafios Avançados;
+ . Desafios Iniciais;
+ . Desafios Intermediários;
+ . Desafios Avançados;
